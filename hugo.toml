@@ -1,0 +1,4 @@
+baseURL = 'https://yxuan0329.github.io/xuan-site/'
+languageCode = 'en-us'
+title = 'XUANs'
+theme = 'lightbi-hugo'
