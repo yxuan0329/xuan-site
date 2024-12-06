@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taiwan on XUANs</title>
-    <link>http://localhost:1313/xuan-site/tags/taiwan/</link>
+    <link>https://yxuan0329.github.io/xuan-site/tags/taiwan/</link>
     <description>Recent content in Taiwan on XUANs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>sample@gmail.com (Bino Kochumol Varghese)</managingEditor>
     <webMaster>sample@gmail.com (Bino Kochumol Varghese)</webMaster>
     <lastBuildDate>Fri, 06 Dec 2024 15:36:15 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/xuan-site/tags/taiwan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yxuan0329.github.io/xuan-site/tags/taiwan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>草嶺古道</title>
-      <link>http://localhost:1313/xuan-site/travel/mt1201/</link>
+      <link>https://yxuan0329.github.io/xuan-site/travel/mt1201/</link>
       <pubDate>Fri, 06 Dec 2024 15:36:15 +0800</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>http://localhost:1313/xuan-site/travel/mt1201/</guid>
+      <guid>https://yxuan0329.github.io/xuan-site/travel/mt1201/</guid>
       <description>&lt;h1 id=&#34;草嶺古道芒花季&#34;&gt;草嶺古道芒花季&lt;/h1&gt;&#xA;&lt;p&gt;又到了一年一度的芒草季節，講了好多年今年終於追到芒草！&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;../../img/travel/_DSF5659.jpg&#34;&#xA;    alt=&#34;替代文字&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;山上的芒草&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
     </item>
   </channel>
